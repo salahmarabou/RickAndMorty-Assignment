@@ -18,7 +18,7 @@ The application provides a seamless user experience for exploring characters fro
 ## Screenshot
 
 
-![Home View](./screenshots/rick&morty.png)
+![Home View](./screenshot/rick&morty.png)
 
 
 
